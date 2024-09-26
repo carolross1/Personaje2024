@@ -16,7 +16,8 @@ Mi personaje al momento de que se acerca a 15 centimetros una persona comienza a
 |Software | Versión |
 
 ## Dibujo del personaje:
-imagen del dibujo que lo represente
+![Imagen de WhatsApp 2024-09-26 a las 02 06 34_c63995da](https://github.com/user-attachments/assets/76a31513-c406-4741-82ba-6722d0327d82)
+
 
 ## Enlaces de la simulación de wokwi
 https://wokwi.com/projects/409788863241817089
