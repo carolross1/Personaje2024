@@ -34,8 +34,9 @@ Luces LED: Se encenderán luces LED que parpadearán o cambiarán de color, crea
 
 
 ## Enlaces de la simulación de wokwi
-https://wokwi.com/projects/409788863241817089
-https://wokwi.com/projects/409929904430197761
+https://wokwi.com/projects/410225047991698433
+## Enlace simulación del personaje
+https://wokwi.com/projects/410228180645181441
 
 ## Videos
 https://drive.google.com/drive/folders/1xwsSHZQ4sLwSY4cMndnZAg7jRcP82xC-?usp=sharing
